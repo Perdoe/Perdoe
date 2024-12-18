@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*5IYtIe5OwxeoYXi226J-Uw.jpeg)
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React**
 

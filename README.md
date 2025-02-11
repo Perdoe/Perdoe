@@ -1,22 +1,36 @@
-![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/1*5IYtIe5OwxeoYXi226J-Uw.jpeg)
 <h1 align="center">Hi 👋, I'm Felipe</h1>
-<h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React**
+<p align="center">A passionate fullstack developer building digital experiences. I combine creative problem-solving with technical expertise to create impactful solutions.</p>
 
-- 🤝 I’m looking for help with **website aesthetic designs**
+### Currently Working With
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22C35E&background=0D1117&width=600&height=250&lines=%3E+const+skills+%3D+%7B;%3E+++frontend%3A+%5B%22Angular%22%2C+%22React%22%2C+%22Tailwind%22%5D%2C;%3E+++backend%3A+%5B%22Python%22%2C+%22Flask%22%2C+%22PostgreSQL%22%5D%2C;%3E+++tools%3A+%5B%22Git%22%2C+%22Docker%22%2C+%22VS+Code%22%5D%2C;%3E+++other%3A+%5B%22Arduino%22%2C+%22Unity%22%2C+%22Unreal%22%5D;%3E+%7D)](https://github.com/Perdoe)
 
-- 💬 Ask me about **Python**
+### What I'm Up To
+- 🌱 Expanding my frontend skills with JavaScript and React
+- 🎨 Crafting clean UI/UX designs
+- 🤖 Building interactive hardware projects
+- ⚡ Fun fact: I hide Easter eggs in most of my projects
 
-- ⚡ Fun fact **I put Easter eggs on most projects**
+### Projects
+Explore my repositories to find:
+- 🎮 Game Development Projects
+- 🤖 Arduino-based Solutions
+- 💻 Web Applications
+- 🎨 UI/UX Designs
 
-- 📫 How to reach me **felipe.perdoe@gmail.com**
+### Let's Connect
+- 📫 Reach me at: felipe.perdoe@gmail.com
+- 💬 Ask me about: Python, Web Development, or Game Design
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Perdoe&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perdoe&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img width="90%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Perdoe&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perdoe&show_icons=true&locale=en&layout=compact" alt="perdoe" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=perdoe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>

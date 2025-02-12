@@ -30,7 +30,3 @@ Explore my repositories to find:
 <div align="center">
   <img width="90%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Perdoe&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=perdoe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
